@@ -5,7 +5,6 @@
 I'm Sultan Alkhubayzi, a junior software engineering student at **KFUPM**. I'm intereted in Mobile Development specially with Flutter 💙and Firebase 🧡.
 
 
-- 💼 I'm working at [Nyartech](https://github.com/nyartech) as Flutter Developer intern working on **Mawidy** project.
 - 🔭 I’m currently working on my side project [online photo gallery](https://github.com/Sultan-dev/online_photo_gallery).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Flutter projects.
