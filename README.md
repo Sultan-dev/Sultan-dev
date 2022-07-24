@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-##
+---
 
 I'm Sultan Alkhubayzi, a junior software engineering student at **KFUPM**. I'm intereted in Mobile Development specially with Flutter 💙 and Firebase 🧡.
 
 
-- 🔭 I’m currently working at **Marr Sharing** and developing **Marr Application**💛.
+- I works at **Marr Sharing** 💼 and I am developing **Marr Application** 💛.
 - 👯 I’m looking to collaborate on Flutter projects.
 - Soon I will start my journey with Web Development with React.
 
